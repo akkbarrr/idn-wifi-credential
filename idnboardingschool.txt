@@ -1,0 +1,8 @@
+# example output
+
+idnboardingschool.net:12rpl:12rpl123
+idnboardingschool.net:12rplkarir:karir
+idnboardingschool.net:12rplkarir:karir
+idnboardingschool.net:12rpl:12rpl123
+idnboardingschool.net:kim:2703
+idnboardingschool.net:kim:2703
